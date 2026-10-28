@@ -48,3 +48,5 @@ My goal is to continue growing in both **data** and **software development**, ma
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-passos-de-queiroz-ab8778357/)
 - [GitHub](https://github.com/RafaelPassosQueiroz/)
+- [Instagram](https://www.instagram.com/rafael.queirozxz/))
+
