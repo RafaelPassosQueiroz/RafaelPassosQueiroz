@@ -1,9 +1,5 @@
 # Hi, I'm Rafael Passos de Queiroz 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=500&lines=Business+Intelligence+%E2%80%A2+Data+%E2%80%A2+Software+Development;Turning+data+into+useful+solutions." alt="Typing SVG" />
-</p>
-
 **Business Intelligence • Data • Software Development • AI Development**
 
 I'm an Information Technology student currently working professionally in **Business Intelligence**, mainly with **Qlik Sense**.
