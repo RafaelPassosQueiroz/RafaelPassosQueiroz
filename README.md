@@ -1,162 +1,50 @@
-<div align="center">
+# Hi, I'm Rafael Passos de Queiroz 👋
 
-# Rafael Passos de Queiroz
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=500&lines=Business+Intelligence+%E2%80%A2+Data+%E2%80%A2+Software+Development;Turning+data+into+useful+solutions." alt="Typing SVG" />
+</p>
 
-### Data, Business Intelligence & Software Engineering
+**Business Intelligence • Data • Software Development**
 
-I like building things where **data and software meet** — from databases and pipelines to APIs, analytics and the interfaces that turn information into something useful.
+I'm an Information Technology student currently working professionally in **Business Intelligence**, mainly with **Qlik Sense**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Passos%20de%20Queiroz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-passos-de-queiroz-ab8778357/)
-[![GitHub](https://img.shields.io/badge/GitHub-RafaelPassosQueiroz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelPassosQueiroz)
+Besides data and BI, I also develop software projects involving **backend, frontend, databases, APIs, and artificial intelligence**. I'm especially interested in understanding the complete lifecycle of a solution: from data structuring and processing to the applications that consume, analyze, and present it.
 
-</div>
+## 👨‍💻 About Me
+
+- 📊 Professional experience with **Business Intelligence and Qlik Sense**
+- 🗃️ Experience with **SQL, data modeling, ETL, and data visualization**
+- 💻 Application development with **Java, Python, JavaScript, and TypeScript**
+- ⚙️ Experience with **REST APIs, backend development, relational and NoSQL databases**
+- 📈 Interested in **Data Engineering, Analytics, and Business Intelligence**
+- 🤖 Interested in and currently building projects involving **Artificial Intelligence**
+- 🎓 Information Technology student at **Instituto J&F**
+- 🔎 Always looking beyond isolated technologies and understanding how they connect within complete solutions
 
 ---
 
-## `data → software → insight`
+## 📊 Data & Business Intelligence
 
-I currently work with **Business Intelligence**, mainly using **Qlik Sense**, while also developing software and exploring data engineering, backend systems and applied AI.
+I work across different stages of the data lifecycle, including **data extraction, transformation, modeling, analysis, and dashboard development**, with the goal of transforming raw data into useful information for decision-making.
 
-What interests me most is the complete path of information:
+---
+
+## 🎯 Areas of Interest
 
 ```text
-source
-  ↓
-data modeling
-  ↓
-transformation
-  ↓
-application / API
-  ↓
-analytics
-  ↓
-decision
+Business Intelligence
+Data Analytics
+Data Engineering
+Backend Development
+Software Engineering
+Artificial Intelligence
 ```
 
-Rather than focusing on a single layer, I enjoy understanding how these pieces affect each other.
+My goal is to continue growing in both **data** and **software development**, maintaining a broad understanding of how these areas can work together to build complete and useful solutions.
 
 ---
 
-## What I work with
+## 📫 Contact
 
-| Data & Analytics | Software Development | Data & Systems |
-| --- | --- | --- |
-| Qlik Sense | Java | PostgreSQL |
-| SQL | Spring Boot | MongoDB |
-| Databricks | Python | Redis |
-| Data Modeling | FastAPI | Neo4j |
-| ETL / ELT | React | Docker |
-| Data Visualization | TypeScript | GitHub Actions |
-| Medallion Architecture | Kotlin | CI/CD |
-
----
-
-## Currently building — Inventra
-
-I'm currently part of the team behind **[Inventra](https://github.com/InventraTech)**, an end-to-end inventory management ecosystem designed for industrial kitchens and food operations.
-
-The project connects several areas I enjoy working with:
-
-```text
-                      ┌───────────────┐
-                      │  React / Web  │
-                      └───────┬───────┘
-                              │
-┌─────────────────┐     ┌─────▼──────┐
-│ Kotlin / Mobile │────▶│  Java API  │
-└─────────────────┘     │ Spring Boot│
-                        └─────┬──────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-        PostgreSQL          Redis          AI Service
-                                              │
-                                      Python + FastAPI
-                                         LangGraph
-                                              │
-                                           MongoDB
-```
-
-On the analytics side, the project also gives me the opportunity to work with a data flow such as:
-
-```text
-PostgreSQL
-    ↓
-Databricks
-    ↓
-Bronze → Silver → Gold
-    ↓
-Qlik Sense
-    ↓
-Dashboards & business analysis
-```
-
-This combination is exactly what I want to keep exploring: **software that generates reliable data and data that helps improve software and business decisions.**
-
----
-
-## Things I care about
-
-**Good data models before good-looking dashboards.**  
-A visualization is only as reliable as the data behind it.
-
-**Software and data should be designed together.**  
-APIs, databases and analytics shouldn't behave like completely separate projects.
-
-**Automation should remove repetitive work.**  
-Pipelines, CI/CD and well-defined workflows make development more predictable.
-
-**AI should solve a product problem.**  
-I'm interested in agents, structured outputs and generative interfaces when they actually improve how users interact with a system.
-
-**Technical decisions should remain understandable.**  
-Documentation, naming, architecture and maintainability matter as much as making something work.
-
----
-
-## Current interests
-
-```yaml
-data:
-  - Business Intelligence
-  - Data Engineering
-  - Data Modeling
-  - Analytics Engineering
-
-software:
-  - Backend Development
-  - Software Architecture
-  - APIs
-  - Distributed Application Components
-
-ai:
-  - AI Agents
-  - LangGraph
-  - Generative UI
-  - AI integrated with business systems
-
-engineering:
-  - CI/CD
-  - Containers
-  - Automation
-  - Observability
-```
-
----
-
-## Right now
-
-I'm continuing to deepen my knowledge in **Data Engineering, Business Intelligence, Software Architecture and Applied AI**, with a particular interest in projects that require more than one of these areas at the same time.
-
-> I don't want to choose between data and software.  
-> I want to understand how to build better systems using both.
-
----
-
-<div align="center">
-
-### Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/rafael-passos-de-queiroz-ab8778357/) · [GitHub](https://github.com/RafaelPassosQueiroz) · [InventraTech](https://github.com/InventraTech)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/rafael-passos-de-queiroz-ab8778357/)
+- [GitHub](https://github.com/RafaelPassosQueiroz/)
